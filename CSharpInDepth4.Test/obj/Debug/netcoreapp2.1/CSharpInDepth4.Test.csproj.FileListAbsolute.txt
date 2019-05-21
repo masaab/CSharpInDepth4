@@ -1,0 +1,17 @@
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.Test.deps.json
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.Test.runtimeconfig.json
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.Test.runtimeconfig.dev.json
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.Test.dll
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.Test.pdb
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.dll
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\bin\Debug\netcoreapp2.1\CSharpInDepth4.pdb
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.csprojAssemblyReference.cache
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.csproj.CoreCompileInputs.cache
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.AssemblyInfoInputs.cache
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.AssemblyInfo.cs
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.csproj.CopyComplete
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.dll
+C:\HomeDevelopment\C#InDepth4\CSharpInDepth4.Test\obj\Debug\netcoreapp2.1\CSharpInDepth4.Test.pdb
